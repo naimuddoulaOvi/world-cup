@@ -83,6 +83,12 @@ header{
     line-height: 23px;
     color: #fff;
 }
+.header-button i{
+    transition: all .5s;
+}
+.header-button:hover i{
+    transform: scale(1.5);
+}
 .header-image{
     width: 50%;
 }
